@@ -1,9 +1,9 @@
 <h1 align="center"> SENU-MD </h1>
-<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.1.5 </h1>
+<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.0.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="xploader docs" height="250" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
+  <a href="">
+    <img alt="" height="250" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
   </a>
 </p>
     
@@ -12,14 +12,14 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href=""><img title="Author" src=""></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watching&style=social"></a>
+<a href="" src=""></a>
+<a href=""><img title="Fork" src=""></a>
+<a href=""><img title="Watching" src=""></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{}/count.svg" alt="" /></p>
+<p align="center"><img src="" alt="" /></p>
 
 
 ## `SETUP`
